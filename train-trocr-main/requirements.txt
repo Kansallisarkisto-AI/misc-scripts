@@ -1,0 +1,10 @@
+accelerate==0.28.0
+evaluate>=0.4.5
+jiwer>=4.0.0
+mlflow>=3.3.1
+numpy>=2.2.6
+opencv-python>=4.12.0.88
+pillow>=11.3.0
+scikit-image>=0.25.2
+tqdm>=4.67.1
+transformers==4.35.2
